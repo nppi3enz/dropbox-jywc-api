@@ -2,7 +2,7 @@ version: '3.7'
  
 services:
  express:
-  build: Server
+  build: .
   ports:
   - "4000:4000"
   links:
