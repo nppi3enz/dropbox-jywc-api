@@ -1,0 +1,10 @@
+{
+  "name": "dropbox-jywc",
+  "version": "2.0.0",
+  "description": "dropbox for JWC &  YWC",
+  "dependencies": {
+    "express": "^4.16.4"
+  },
+  "author": "jwc & ywc member",
+  "license": "MIT"
+}
